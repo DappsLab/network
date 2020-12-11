@@ -1,0 +1,27 @@
+{
+  "config": {
+    "chainId": 13936,
+    "homesteadBlock": 0,
+    "eip155Block": 0,
+    "eip150Block": 0,
+    "eip158Block": 0,
+    "byzantiumBlock": 0
+  },
+  "difficulty": "400",
+  "coinbase": "100000000000000000",
+  "timestamp": "0x00",
+  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "gasLimit": "6721975",
+  "gasPrice": "20000000000",
+  "alloc": {
+    "0x32d31e8060f7a1255226988b1f522da0112ac59f": {
+      "balance": "100000000000000000000000"
+    },
+    "0x309e41736fd1d33b92bc4063ef16853d6afff6cb": {
+      "balance": "100000000000000000000000"
+    }
+    //    "0xb19484680E1b8B0A85Ce713A85161e514Ef5fC7C": {
+    //      "balance": "100000000000000000000000"
+    //    }
+  }
+}
